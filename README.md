@@ -10,6 +10,7 @@ FET:<br />
 A FER:<br />
  - Falta afegir un missatge d'error quan s'intenta registrar amb un compte que ja existeix en el sistema<br />
  - Falta fer adaptable la mida dels botons<br />
+ - Afegir suport per android i ios<br />
  <br />
  A TENIR EN COMPTE:<br />
  - Per córrer en local s'ha de fer servir el port 5000: flutter run -d chrome --web-hostname localhost --web-port 5000
